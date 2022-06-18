@@ -1,2 +1,4 @@
-# curso_em_video_python_2022
-Curso de Python com o professor Gustavo Guanabara (Curso em Vídeo)
+<h1> Python - Curso em video </h1>
+<div>
+  <p>Curso de Python ministrado pelo professor Gustavo Guanabara.</p>
+</div>
