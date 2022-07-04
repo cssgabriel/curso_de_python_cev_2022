@@ -1,12 +1,12 @@
 <h1>Curso Python 3 (CEV) - Mundo 2</h1>
-<p>O Mundo 1 do Curso de Python possui <strong>40 horas</strong> de aulas.
+<p>O Mundo 2 do Curso de Python possui <strong>40 horas</strong> de aulas.</p>
 
-Este curso é composto por <strong>6 módulos</strong>. Sendo eles:
+<p>ste curso é composto por <strong>4 módulos</strong>. Sendo eles:</p>
 <ol>
-  <li>Introdução ao Mundo da Programação</li>
-  <li>Primeiros passos com o Python</li>
-  <li>Tratando dados e fazendo contas</li>
-  <li>Usando módulos do Python</li>
-  <li>Condições em Python (if..else)</li>
-  <li>Adicionando cores ao Pytho [BÔNUS]</li>
+  <li>Introdução ao Mundo 2</li>
+  <li>Condições em Python (if..elif)</li>
+  <li>Repetições em Python (for)</li>
+  <li>Repetições em Python (while)</li>
 </ol>
+
+<p>O Mundo 2 possui 36 exercícios ao todo, indo do 36 ao 71.</p>
