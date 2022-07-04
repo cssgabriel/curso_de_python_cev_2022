@@ -9,4 +9,4 @@
   <li>Repetições em Python (while)</li>
 </ol>
 
-<p>O Mundo 2 possui 36 exercícios ao todo, indo do 36 ao 71.</p>
+<p>O Mundo 2 possui <strong>36 exercícios ao todo, indo do 36 ao 71.</strong></p>
